@@ -178,7 +178,7 @@ namespace UML_2
             }
         }
 
-        void DeletePizza()
+        public void DeletePizza()
         {
             Console.Clear();
             Console.WriteLine("-----------------------");
@@ -204,7 +204,7 @@ namespace UML_2
            
         }
 
-        void SearchPizza()
+        public void SearchPizza()
         {
             Console.Clear();
             Console.WriteLine("-----------------------");
@@ -229,7 +229,7 @@ namespace UML_2
             
         }
 
-        void UpdatePizza()
+        public void UpdatePizza()
         {
             Console.Clear();
             Console.WriteLine("-----------------------");
